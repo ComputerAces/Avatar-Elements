@@ -1,0 +1,18 @@
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Debug\Avatar Elements.exe.config
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Debug\Avatar Elements.exe
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Debug\Avatar Elements.pdb
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Debug\Newtonsoft.Json.dll
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Debug\Newtonsoft.Json.xml
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar_Elements.AnimationEditorForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar_Elements.ControlPanelForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar_Elements.LightEditorForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar_Elements.PreviewForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar_Elements.ProfileEditForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar_Elements.ProfileManagerForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar_Elements.Properties.Resources.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar Elements.csproj.GenerateResource.cache
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar Elements.csproj.CoreCompileInputs.cache
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar Elements.csproj.CopyComplete
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar Elements.exe
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar Elements.pdb
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Debug\Avatar Elements.csproj.AssemblyReference.cache

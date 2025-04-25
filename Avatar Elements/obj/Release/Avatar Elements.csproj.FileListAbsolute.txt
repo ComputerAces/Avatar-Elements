@@ -1,0 +1,21 @@
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar_Elements.AnimationEditorForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar_Elements.ControlPanelForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar_Elements.LightEditorForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar_Elements.PreviewForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar_Elements.ProfileEditForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar_Elements.ProfileManagerForm.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar_Elements.Properties.Resources.resources
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar Elements.csproj.GenerateResource.cache
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar Elements.csproj.CoreCompileInputs.cache
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Release\Avatar Elements.exe.config
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Release\Avatar Elements.exe
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Release\Avatar Elements.pdb
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Release\Newtonsoft.Json.dll
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Release\Newtonsoft.Json.xml
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar Elements.csproj.CopyComplete
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar Elements.exe
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar Elements.pdb
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Release\Avatar Elements.exe.manifest
+F:\My Programs\Avatar Elements\Avatar Elements\bin\Release\Avatar Elements.application
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar Elements.exe.manifest
+F:\My Programs\Avatar Elements\Avatar Elements\obj\Release\Avatar Elements.application
